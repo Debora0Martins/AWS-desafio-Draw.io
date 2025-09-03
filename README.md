@@ -7,7 +7,7 @@ O objetivo é consolidar os conhecimentos adquiridos, documentar o processo e te
 
 ---
 
-## 🎯 Objetivos do Desafio
+## O Desafio
 - Criar e gerenciar instâncias EC2 na AWS.  
 - Trabalhar com **imagens AMI**.  
 - Criar e restaurar **snapshots EBS**.  
@@ -16,7 +16,7 @@ O objetivo é consolidar os conhecimentos adquiridos, documentar o processo e te
 
 ---
 
-## 🚀 Passo a Passo Realizado
+## Passo a Passo Realizado
 1. Criação de uma instância EC2 (tipo `t2.micro`) no console da AWS.  
 2. Configuração de **Security Group** para permitir acesso SSH.  
 3. Conexão via terminal:  

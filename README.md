@@ -61,11 +61,13 @@ O repositório contém:
 
 - **Recursos úteis:**
 
-	•	Documentação oficial AWS EC2
-	•	AWS CLI
-	•	Draw.io
 
-⸻
+- [Documentação oficial AWS EC2](https://docs.aws.amazon.com/ec2/index.html) – Guia completo da AWS para instâncias EC2.  
+- [AWS CLI](https://aws.amazon.com/cli/) – Ferramenta de linha de comando para gerenciar serviços AWS.  
+- [Draw.io](https://app.diagrams.net/) – Criar diagramas de arquitetura e fluxos de trabalho.  
+- [GitHub](https://github.com/) – Versionamento e compartilhamento de código.  
+- [PowerShell](https://learn.microsoft.com/powershell/) – Execução de scripts no Windows.  
+- [CloudShell AWS](https://aws.amazon.com/cloudshell/) – Ambiente de shell direto na AWS.
 
 ✍️ Autor: Débora Martins
 📌 Repositório criado como parte do desafio DIO — 2025

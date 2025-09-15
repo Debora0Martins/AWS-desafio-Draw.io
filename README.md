@@ -45,3 +45,28 @@ O repositório contém:
 3. Conexão via terminal:  
    ```bash
    ssh -i minha-chave.pem ec2-user@<ip-da-instancia>
+
+
+   ## 🛠️ Conceitos e Ferramentas Aprendidos
+
+- **AWS EC2:** criação, execução e gerenciamento de instâncias.  
+- **AMIs e Snapshots EBS:** aprendizado sobre imagens e backups de instâncias.  
+- **IAM (Identity and Access Management):** configuração de permissões para executar scripts e acessar instâncias via SSH.  
+- **Autenticação segura:** uso do Google Authenticator para acessar a AWS de forma protegida.  
+- **PowerShell:** execução de comandos administrativos no Windows Server.  
+- **CloudShell:** execução de scripts diretamente no ambiente da AWS.  
+- **Draw.io:** criação de diagramas de arquitetura e compressão básica de arquivos.  
+- **Noção básica de arquitetura:** adquirida através do uso do Draw.io para organizar visualmente processos e fluxos da AWS.  
+- **GitHub:** versionamento de arquivos, organização de repositório e documentação técnica.
+
+- **Recursos úteis:**
+
+	•	Documentação oficial AWS EC2
+	•	AWS CLI
+	•	Draw.io
+
+⸻
+
+✍️ Autor: Débora Martins
+📌 Repositório criado como parte do desafio DIO — 2025
+📄 Licença: MIT
